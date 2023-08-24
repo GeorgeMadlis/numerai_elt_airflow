@@ -1,0 +1,102 @@
+2023-08-23 11:16:03,553 - INFO - 1. Done: Credentials
+2023-08-23 11:16:04,199 - INFO - Dataset already exists at: v4.1/validation.parquet
+2023-08-23 11:16:27,672 - INFO - Data exists, skipping: data_0_100
+2023-08-23 11:16:27,677 - INFO - Data exists, skipping: data_100_200
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_200_300
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_300_400
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_400_500
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_500_600
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_600_700
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_700_800
+2023-08-23 11:16:27,678 - INFO - Data exists, skipping: data_800_900
+2023-08-23 11:16:27,679 - INFO - Data exists, skipping: data_900_1000
+2023-08-23 11:16:27,679 - INFO - Data exists, skipping: data_1000_1100
+2023-08-23 11:16:27,680 - INFO - Data exists, skipping: data_1100_1200
+2023-08-23 11:16:27,680 - INFO - Data exists, skipping: data_1200_1300
+2023-08-23 11:16:27,680 - INFO - Data exists, skipping: data_1300_1400
+2023-08-23 11:16:27,680 - INFO - Data exists, skipping: data_1400_1500
+2023-08-23 11:16:27,680 - INFO - Data exists, skipping: data_1500_1600
+2023-08-23 11:32:11,048 - INFO - Done: move data
+2023-08-23 11:32:11,086 - INFO - Done: BQPipeline created
+2023-08-23 11:32:11,511 - INFO -  0 100
+2023-08-23 11:35:11,920 - INFO -  100 200
+2023-08-23 11:38:25,246 - INFO -  200 300
+2023-08-23 11:41:24,546 - INFO -  300 400
+2023-08-23 11:44:34,288 - INFO -  400 500
+2023-08-23 11:47:32,704 - INFO -  500 600
+2023-08-23 11:50:24,910 - INFO -  600 700
+2023-08-23 11:53:27,472 - INFO -  700 800
+2023-08-23 11:56:36,206 - INFO -  800 900
+2023-08-23 11:59:44,317 - INFO -  900 1000
+2023-08-23 12:03:14,704 - INFO -  1000 1100
+2023-08-23 12:06:32,648 - INFO -  1100 1200
+2023-08-23 12:09:16,464 - INFO -  1200 1300
+2023-08-23 12:12:23,090 - INFO -  1300 1400
+2023-08-23 12:15:05,921 - INFO -  1400 1500
+2023-08-23 12:18:09,834 - INFO -  1500 1600
+2023-08-23 12:46:04,308 - INFO - Closing down clientserver connection
+2023-08-23 12:47:08,350 - INFO - 1. Done: Credentials
+2023-08-23 12:47:08,667 - INFO - Dataset already exists at: v4.1/validation.parquet
+2023-08-23 12:47:26,863 - INFO - DataFrame Rows count: 2561211,  DataFrame Columns count: 1626
+2023-08-23 12:47:30,435 - INFO - Data exists, skipping: data_0_100
+2023-08-23 12:47:30,435 - INFO - Data exists, skipping: data_100_200
+2023-08-23 12:47:30,436 - INFO - Data exists, skipping: data_200_300
+2023-08-23 12:47:30,436 - INFO - Data exists, skipping: data_300_400
+2023-08-23 12:47:30,436 - INFO - Data exists, skipping: data_400_500
+2023-08-23 12:47:30,436 - INFO - Data exists, skipping: data_500_600
+2023-08-23 12:47:30,436 - INFO - Data exists, skipping: data_600_700
+2023-08-23 12:47:30,436 - INFO - Data exists, skipping: data_700_800
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_800_900
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_900_1000
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_1000_1100
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_1100_1200
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_1200_1300
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_1300_1400
+2023-08-23 12:47:30,437 - INFO - Data exists, skipping: data_1400_1500
+2023-08-23 12:47:30,438 - INFO - Data exists, skipping: data_1500_1600
+2023-08-23 12:48:51,316 - INFO - Done: move data
+2023-08-23 12:48:51,362 - INFO - Done: BQPipeline created
+2023-08-23 12:48:51,852 - INFO -  0 100
+2023-08-23 12:52:18,462 - INFO -  100 200
+2023-08-23 12:55:25,608 - INFO -  200 300
+2023-08-23 12:58:57,318 - ERROR - Failed to run ELT process. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-08-23 12:58:57,350 - INFO - Closing down clientserver connection
+2023-08-23 13:33:32,962 - INFO - 1. Done: Credentials
+2023-08-23 13:33:33,284 - INFO - Dataset already exists at: v4.1/validation.parquet
+2023-08-23 13:33:48,057 - INFO - DataFrame Rows count: 2561211,  DataFrame Columns count: 1626
+2023-08-23 13:34:01,493 - INFO - Data exists, skipping: data_0_100
+2023-08-23 13:34:01,495 - INFO - Data exists, skipping: data_100_200
+2023-08-23 13:34:01,495 - INFO - Data exists, skipping: data_200_300
+2023-08-23 13:34:01,495 - INFO - Data exists, skipping: data_300_400
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_400_500
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_500_600
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_600_700
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_700_800
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_800_900
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_900_1000
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_1000_1100
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_1100_1200
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_1200_1300
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_1300_1400
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_1400_1500
+2023-08-23 13:34:01,496 - INFO - Data exists, skipping: data_1500_1600
+2023-08-23 13:34:58,529 - INFO - Done: move data
+2023-08-23 13:34:58,550 - INFO - Done: BQPipeline created
+2023-08-23 13:34:58,885 - INFO -  0 100
+2023-08-23 13:37:58,097 - INFO -  100 200
+2023-08-23 13:40:52,782 - INFO -  200 300
+2023-08-23 13:43:46,824 - INFO -  300 400
+2023-08-23 13:46:43,011 - INFO -  400 500
+2023-08-23 13:49:49,346 - INFO -  500 600
+2023-08-23 13:53:09,452 - INFO -  600 700
+2023-08-23 13:56:37,844 - INFO -  700 800
+2023-08-23 13:59:33,776 - INFO -  800 900
+2023-08-23 14:03:03,240 - INFO -  900 1000
+2023-08-23 14:06:13,604 - INFO -  1000 1100
+2023-08-23 14:09:25,137 - INFO -  1100 1200
+2023-08-23 14:12:41,911 - INFO -  1200 1300
+2023-08-23 14:15:52,805 - INFO -  1300 1400
+2023-08-23 14:19:26,894 - INFO -  1400 1500
+2023-08-23 14:22:13,960 - INFO -  1500 1600
+2023-08-23 14:25:34,158 - INFO - Done: BQPipeline merged!!!!
+2023-08-23 14:25:34,169 - INFO - Closing down clientserver connection
